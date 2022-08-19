@@ -116,7 +116,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://tasmota.github.io/docs/Berry_leds/</loc>
+         <loc>https://tasmota.github.io/docs/Berry_Addressable-LED/</loc>
          <lastmod>2022-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -237,6 +237,11 @@
     </url>
     <url>
          <loc>https://tasmota.github.io/docs/DS3231/</loc>
+         <lastmod>2022-08-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tasmota.github.io/docs/DY-SV17F/</loc>
          <lastmod>2022-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
