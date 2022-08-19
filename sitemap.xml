@@ -546,6 +546,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://tasmota.github.io/docs/Modbus-Bridge/</loc>
+         <lastmod>2022-08-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://tasmota.github.io/docs/Modules/</loc>
          <lastmod>2022-08-19</lastmod>
          <changefreq>daily</changefreq>
