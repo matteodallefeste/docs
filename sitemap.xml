@@ -881,6 +881,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://tasmota.github.io/docs/Tasmota-Application/</loc>
+         <lastmod>2022-09-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://tasmota.github.io/docs/Tasmota-Device-Locator/</loc>
          <lastmod>2022-09-01</lastmod>
          <changefreq>daily</changefreq>
